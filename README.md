@@ -1,5 +1,5 @@
 # HeadPoseEstimation_FVAB
-Progetto del corso Fondamenti di Visione Artificiale e Biometria.
+Progetto del corso Fondamenti di Visione Artificiale e Biometria, per la Head Pose Estimation
 
 La stima della posa della testa di una persona è un problema cruciale che ha una grande quantità di applicazioni. 
 Fra queste troviamo: sistemi di sorveglianza, face frontalization, l’attenzione alla guida e molti altri ancora. 
